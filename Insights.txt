@@ -1,0 +1,7 @@
+- Insights based on the dashboard
+
+1) Asia region recorded the highest sales, followed by North America, while Europe had the lowest.
+
+2) Clothing category led sales with 27.99%, while Electronics contributed the least with 8.88%.
+
+3) Credit Cards were the most used payment method (51.74%), compared to Debit Cards and PayPal.
